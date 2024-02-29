@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdr9725
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Kotlin 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
 
